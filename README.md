@@ -1,9 +1,9 @@
 ### Hello there 👋
-My name is jhed. I've been working as a web developer for more than a decade now.
+My name is jhed. I've been working as a web developer for more than a decade now specializing in backend development.
 
 ![](https://komarev.com/ghpvc/?username=jhedmendoza&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhedmendoza&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhedmendoza&theme=calm)](https://git.io/streak-stats)
 <!--
 **jhedmendoza/jhedmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
