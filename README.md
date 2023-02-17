@@ -4,6 +4,13 @@ My name is jhed. I've been working as a web developer for more than a decade spe
 ![](https://komarev.com/ghpvc/?username=jhedmendoza&style=for-the-badge)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhedmendoza&theme=calm)](https://git.io/streak-stats)
+
+### Connect with me
+
+<a href="https://www.instagram.com/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/instagram.svg" alt="Jhed Mendoza | Instagram" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/linkedin.svg" alt="Jhed Mendoza | LinkedIn" width="21px"/></a>
+
 <!--
 **jhedmendoza/jhedmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
