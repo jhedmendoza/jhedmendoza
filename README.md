@@ -11,6 +11,10 @@ My name is jhed. I've been working as a web developer for more than a decade spe
 
 <a href="https://www.linkedin.com/in/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/linkedin.svg" alt="Jhed Mendoza | LinkedIn" width="21px"/></a>
 
+<a href="https://www.facebook.com/jhed.adrine"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/facebook.png" alt="Jhed Mendoza | Facebook" width="21px"/></a>
+
+
+
 <!--
 **jhedmendoza/jhedmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
