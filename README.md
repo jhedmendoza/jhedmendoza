@@ -7,11 +7,15 @@ My name is jhed. I've been working as a web developer for more than a decade spe
 
 ### Connect with me
 
-<a href="https://www.instagram.com/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/instagram.svg" alt="Jhed Mendoza | Instagram" width="21px"/></a>
-
 <a href="https://www.linkedin.com/in/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/linkedin.svg" alt="Jhed Mendoza | LinkedIn" width="21px"/></a>
 
 <a href="https://www.facebook.com/jhed.adrine"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/facebook.png" alt="Jhed Mendoza | Facebook" width="21px"/></a>
+
+<a href="https://twitter.com/_jhedm"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/twitter.png" alt="Jhed Mendoza | Twitter" width="21px"/></a>
+
+<a href="https://www.instagram.com/jhedmendoza/"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/instagram.svg" alt="Jhed Mendoza | Instagram" width="21px"/></a>
+
+<a href="https://www.youtube.com/jhedmendoza"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/youtube.png" alt="Jhed Mendoza | Youtube" width="21px"/></a>
 
 
 
