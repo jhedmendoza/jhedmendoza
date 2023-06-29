@@ -1,5 +1,5 @@
 ### Hello there 👋🤖
-I'm Jhed. I've been working as a web developer for more than a decade specializing in backend development.
+I'm Jhed. I've been working as a web developer for more than a decade, specializing in backend development.
 
 ![](https://komarev.com/ghpvc/?username=jhedmendoza&style=for-the-badge)
 
