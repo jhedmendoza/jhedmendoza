@@ -5,6 +5,7 @@ I'm Jhed. I've been working as a web developer for more than a decade, specializ
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhedmendoza&theme=calm)](https://git.io/streak-stats)
 
+<!--
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/jhedmendoza/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/linkedin.svg" alt="Jhed Mendoza | LinkedIn" width="21px"/></a>
@@ -16,7 +17,7 @@ I'm Jhed. I've been working as a web developer for more than a decade, specializ
 <a href="https://www.instagram.com/jhedmendoza/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/instagram.svg" alt="Jhed Mendoza | Instagram" width="21px"/></a>
 
 <a href="https://www.youtube.com/jhedmendoza" target="_blank"><img align="left" src="https://raw.githubusercontent.com/jhedmendoza/jhedmendoza/main/img/youtube.png" alt="Jhed Mendoza | Youtube" width="21px"/></a>
-
+-->
 
 
 <!--
