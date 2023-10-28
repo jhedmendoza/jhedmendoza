@@ -1,5 +1,5 @@
 ### Hello there 👋🤖
-Hello, I'm Jhed, a seasoned web developer with over a decade of hands-on experience in the field. Over the years, I've honed my skills in crafting robust and efficient web applications, specializing in backend development using PHP. My journey in the world of web development has allowed me to tackle a wide range of projects, from e-commerce platforms to content management systems, and I've always been dedicated to delivering high-quality, scalable solutions that meet the unique needs of each project.
+I'm Jhed, a seasoned web developer with over a decade of hands-on experience in the field. Over the years, I've honed my skills in crafting robust and efficient web applications, specializing in backend development using PHP. My journey in the world of web development has allowed me to tackle a wide range of projects, from e-commerce platforms to content management systems, and I've always been dedicated to delivering high-quality, scalable solutions that meet the unique needs of each project.
 
 My proficiency extends to PHP frameworks such as Laravel Synfony and Zend, which I've leveraged to streamline development and enhance the performance of the applications I've worked on. I'm well-versed in creating RESTful APIs, optimizing database performance, and ensuring the security of web applications.
 
