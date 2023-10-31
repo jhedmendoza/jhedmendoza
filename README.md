@@ -4,9 +4,9 @@ I'm Jhed, a seasoned web developer with over a decade of hands-on experience in 
 My proficiency extends to PHP frameworks such as Laravel, Symfony and Zend, which I've leveraged to streamline development and enhance the performance of the applications I've worked on. I'm well-versed in creating RESTful APIs, optimizing database performance, and ensuring the security of web applications.
 
 ![](https://komarev.com/ghpvc/?username=jhedmendoza&style=for-the-badge)
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhedmendoza&theme=calm)](https://git.io/streak-stats)
-
+-->
 <!--
 ### Connect with me
 
