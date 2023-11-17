@@ -1,5 +1,6 @@
 ### Hello there 👋🤖
-![](https://komarev.com/ghpvc/?username=jhedmendoza&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=jhedmendoza&style=flat-square)
 
 I'm Jhed, a seasoned web developer with over a decade of hands-on experience in the field. Over the years, I've honed my skills in crafting robust and efficient web applications, specializing in backend development using PHP. My journey in the world of web development has allowed me to tackle a wide range of projects, from e-commerce platforms to content management systems. I've always been dedicated to delivering high-quality, scalable solutions that meet the unique needs of each project.
 
